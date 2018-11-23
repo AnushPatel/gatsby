@@ -3,7 +3,7 @@ title: Creating a sitemap
 ---
 ### What is a Site Map?
 
-An [XML sitemap](https://support.google.com/webmasters/answer/156184?hl=en) lists a website’s important pages, making sure Google can find and crawl them all, and helping it understand your website structure. It’s simply a list of the pages on your website.
+An [XML sitemap](https://support.google.com/webmasters/answer/156184?hl=en) lists a website’s important pages, making sure Google can find and crawl them all, and helping it understand your website structure. It’s a list of the pages on your website.
 
 Think of it as a map for your website. It shows what all of the pages are on your website.
 
