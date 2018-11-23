@@ -3,14 +3,14 @@ title: Creating a sitemap
 ---
 ### What is a Site Map?
 
-An [XML sitemap](https://support.google.com/webmasters/answer/156184?hl=en) lists a website’s important pages, making sure Google can find and crawl them all, and helping it understand your website structure. It’s a list of the pages on your website.
+An [XML sitemap](https://support.google.com/webmasters/answer/156184?hl=en) lists a website’s important pages, making sure search engines (such as Google) can find and crawl them all, and helping it understand your website structure.
 
 Think of it as a map for your website. It shows what all of the pages are on your website.
 
 ### Install
 
 To generate a XML sitemap, We will use the [gatsby-plugin-sitemap](/packages/gatsby-plugin-sitemap/) Package, To install this package, Run the following line on your command line:
-   npm install --save gatsby-plugin-sitemap
+   ```npm install --save gatsby-plugin-sitemap```
 
 
 ### How to use [gatsby-plugin-sitemap](/packages/gatsby-plugin-sitemap/)
